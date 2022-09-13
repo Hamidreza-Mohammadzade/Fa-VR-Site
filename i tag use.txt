@@ -1,0 +1,20 @@
+<i class="fa-solid fa-graduation-cap"></i>
+<i class="fa-solid fa-gamepad"></i>
+<i class="fa-solid fa-users"></i>
+<i class="fa-solid fa-square-poll-vertical"></i>
+<i class="fa-solid fa-user-doctor"></i>
+<i class="fa-solid fa-synagogue"></i>
+<i class="fa-solid fa-briefcase"></i>
+<i class="fa-solid fa-palette"></i>
+
+
+<i class="fa-solid fa-circle-check"></i>
+<i class="fa-solid fa-flask-vial"></i>
+<i class="fa-solid fa-gears"></i>
+
+<i class="fa-solid fa-eye"></i>
+<i class="fa-solid fa-star"></i>
+<i class="fa-solid fa-microchip"></i>
+
+<i class="fa-solid fa-caret-down"></i>
+<i class="fa-solid fa-angle-right"></i>
