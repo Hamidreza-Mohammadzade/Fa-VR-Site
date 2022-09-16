@@ -9,7 +9,7 @@ body{
 }
 @font-face{
     font-family: 'IRANSans';
-    src: url(Font/IRANSans.ttf);
+    src: url(../Font/IRANSans.ttf);
 }
 a{
     text-decoration: none;
